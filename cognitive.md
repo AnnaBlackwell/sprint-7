@@ -1,5 +1,3 @@
-<h1>Lessons about making websites accessible for users with cognitive disabilities and why it's important:</h1>
-
 Best practice for cognitive web accessibility includes:
 
 1. Assistive Technology Compatibility. Content must be perceivable to assistive technology such as screen readers, by including appropriate alt test, form labels, table headers, logical heading structure, links that make sense out of context, a logical and intuitive order, full keybourd accessibility, and captions/transcripts.
